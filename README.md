@@ -98,8 +98,7 @@ flutter run --release
 
 ## 🎥 Demo
 
-Watch the full demo on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/posts/mohamed-hamid-3bb3aa243_flutter-flutterdev-firebase-ugcPost-7452667986353590272-uO0a?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxkg78Bft2_-NKlGEyuFfxDJCnX2tIstwg))
-
+Watch the full demo on [LinkedIn](https://www.linkedin.com/posts/mohamed-hamid-3bb3aa243_flutter-flutterdev-firebase-ugcPost-7452667986353590272-uO0a)
 ---
 
 ## 🧠 Technical Highlights
@@ -120,8 +119,9 @@ Authentication never fails due to Firestore issues — every cloud call wrapped 
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!  
-Feel free to open an [issue](https://github.com/MohamedHamid4/MOOV-EDITOR/issues).
+Contributions, feedback, and feature requests are welcome!  
+Open an [issue](https://github.com/MohamedHamid4/MOOV-EDITOR/issues/new) 
+or start a [discussion](https://github.com/MohamedHamid4/MOOV-EDITOR/discussions).
 
 ---
 
