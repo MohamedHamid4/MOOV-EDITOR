@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(echo \"Exit: $?\")",
+      "Bash(flutter pub *)",
+      "Bash(flutter analyze *)",
+      "Bash(flutter clean *)",
+      "Bash(./gradlew assembleDebug)",
+      "Bash(flutter build *)",
+      "Bash(./gradlew --stop)",
+      "Bash(taskkill //F //IM java.exe)",
+      "Bash(tasklist)",
+      "Bash(dart run *)"
+    ]
+  }
+}

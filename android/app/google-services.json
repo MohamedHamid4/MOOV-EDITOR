@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "638287705420",
+    "project_id": "moov-editor",
+    "storage_bucket": "moov-editor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638287705420:android:68986a806dddb2cb974be9",
+        "android_client_info": {
+          "package_name": "com.moov.editor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638287705420-rm6i2uf4hj7igb4t589lvuq5440ntqc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moov.editor",
+            "certificate_hash": "cd13ce9f94e69de94e8d48242c46540ebaa1a3ed"
+          }
+        },
+        {
+          "client_id": "638287705420-p1dhkkmigp56ltku9mmucqnr59b1k8ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8rsxoV9sizTwJukaDTt1iuGqBQyjnFSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638287705420-p1dhkkmigp56ltku9mmucqnr59b1k8ab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638287705420-cjui0gdfnfjul7r6ob0jbihlem53bf0q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moovEditor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
